@@ -1,6 +1,0 @@
-A new test file
-
-Hello
-Bye.
-
-A new change..
