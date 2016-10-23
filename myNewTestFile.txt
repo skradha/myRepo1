@@ -1,0 +1,4 @@
+A new test file
+
+Hello
+Bye.
